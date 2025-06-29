@@ -14,7 +14,7 @@ The Canyon MCP server will be responsible to orchestrate the requests between bo
 - Either the Humanitec Documentation (via Kapa.ai);
 - Or the Humanitec Orchestrator APIs (via `humctl`).
 
-_Note: The setup could have also pre-configured paths, you can find the code for those paths in [this repo.](https://github.com/humanitec/canyon-demo-samples/tree/main/pipeline-actions-scripts). If interested, please contact us, we will help you set this up._
+_Note: The setup could have also [pre-configured paths](https://github.com/humanitec/canyon-demo-samples/tree/main/pipeline-actions-scripts). If interested, please contact us, we will help you set this up. We recommend to not use this feature to start with, you will already be able to accomplish a lot with the two features above._
 
 ## Prerequisites
 
