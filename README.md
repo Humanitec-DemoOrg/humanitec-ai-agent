@@ -8,7 +8,7 @@ This page will show you how you can integrate Canyon with your Humanitec Organiz
 
 ## Features supported
 
-![](ai-agent.png)
+![](canyon-ai.png)
 
 The Canyon MCP server will be responsible to orchestrate the requests between both:
 - Either the Humanitec Documentation (via Kapa.ai);
