@@ -16,7 +16,7 @@ The Canyon MCP server will be responsible to orchestrate the requests between bo
 
 _Note: The setup could have also pre-configured paths, you can find the code for those paths in [this repo.](https://github.com/humanitec/canyon-demo-samples/tree/main/pipeline-actions-scripts). If interested, please contact us, we will help you set this up._
 
-## Prerequesites
+## Prerequisites
 
 - Access to your own Humanitec Organization.
 - [`humctl` CLI](https://developer.humanitec.com/platform-orchestrator/docs/platform-orchestrator/cli/) installed locally - interacts with your own Humanitec Organization.
